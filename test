@@ -1,7 +1,1 @@
-echo "# projet_appronfondissement" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MX3DK/projet_appronfondissement.git
-git push -u origin main
+Hello Martinique
